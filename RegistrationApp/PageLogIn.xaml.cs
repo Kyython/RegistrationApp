@@ -88,7 +88,7 @@ namespace RegistrationApp
             }
         }
 
-        private void LogInButton(object sender, RoutedEventArgs e)
+        private void YandexLogInButton(object sender, RoutedEventArgs e)
         {
             if (String.IsNullOrEmpty(Properties.Settings.Default.SettingsKey))
             {

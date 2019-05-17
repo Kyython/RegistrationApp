@@ -129,7 +129,7 @@ namespace RegistrationApp {
             case 7:
             
             #line 31 "..\..\PageLogIn.xaml"
-            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.LogInButton);
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.YandexLogInButton);
             
             #line default
             #line hidden

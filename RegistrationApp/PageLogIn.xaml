@@ -28,7 +28,7 @@
                 <Button Style="{DynamicResource ButtonStyle}" Content="Регистрация" Height="27" Click="RegistrationClick" Margin="0,129,-101,-129" HorizontalAlignment="Right" Width="88"/>
                 <Button Style="{DynamicResource ButtonStyle}" Click="MailRuLogInButton" Content="Mail.ru" HorizontalAlignment="Left" VerticalAlignment="Top" Width="84" Margin="-81,192,0,-187" RenderTransformOrigin="0.182,0.545"/>
                 <Button Style="{DynamicResource ButtonStyle}" Click="VkontakteLogInButton"  Content="Vkontakte" VerticalAlignment="Top" Margin="13,165,51,-160"/>
-                <Button Style="{DynamicResource ButtonStyle}" Content="Yandex" Click="LogInButton"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="78" Margin="66,165,0,-160"/>
+                <Button Style="{DynamicResource ButtonStyle}" Content="Yandex" Click="YandexLogInButton"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="78" Margin="66,165,0,-160"/>
             </TabPanel>
         </materialDesign:Card>
     </Grid>
