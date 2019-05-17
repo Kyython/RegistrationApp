@@ -1,0 +1,6 @@
+C:\Users\Асанали\source\repos\RegistrationApp\RegistrationApp.Models\bin\Debug\RegistrationApp.Models.dll
+C:\Users\Асанали\source\repos\RegistrationApp\RegistrationApp.Models\bin\Debug\RegistrationApp.Models.pdb
+C:\Users\Асанали\source\repos\RegistrationApp\RegistrationApp.Models\obj\Debug\RegistrationApp.Models.csprojAssemblyReference.cache
+C:\Users\Асанали\source\repos\RegistrationApp\RegistrationApp.Models\obj\Debug\RegistrationApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\source\repos\RegistrationApp\RegistrationApp.Models\obj\Debug\RegistrationApp.Models.dll
+C:\Users\Асанали\source\repos\RegistrationApp\RegistrationApp.Models\obj\Debug\RegistrationApp.Models.pdb
